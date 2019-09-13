@@ -93,4 +93,3 @@ attr_accessor :isbn, :price
 		end
 	end
 end
-book = BookInStock.new('isb', 20)
